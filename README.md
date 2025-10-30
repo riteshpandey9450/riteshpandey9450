@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Pandey</h1>
-<h3 align="center">B.Tech CSE @ MMMUT Gorakhpur | Competitive Programmer | Frontend Developer</h3>
+<h3 align="center">A passionate $oftware Engineer</h3>
+
+![code](https://github.com/user-attachments/assets/968cdc57-52fb-476f-8f79-2182755d5ad7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshpandey9450&label=Profile%20views&color=0e75b6&style=flat" alt="riteshpandey9450" /> </p>
 
