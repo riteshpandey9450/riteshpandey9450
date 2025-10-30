@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshpandey9450" alt="riteshpandey9450" /></a> </p>
 
 - 🔭 I'm currently working on **a Mern Stack Project and Competitive Programming.**
-- 
+  
 - 🌱 I'm currently learning **Full-Stack Web Development (MERN Stack) and Advanced DSA.**
 
 - 💬 Ask me about **Data Structures & Algorithms, Competitive Programming, C++,and Full-Stack Web Development (MERN).**
