@@ -43,7 +43,7 @@
 - 🤝 I’m looking to collaborate on **open-source projects, MERN stack apps**.
 - 💬 Ask me about **Data Structures & Algorithms, C++, and Full-Stack Development**.
 - 📫 How to reach me: **riteshpandey02112005@gmail.com**
-- ⚡ Fun fact: **I debug better at midnight than during lectures 🌙💻**
+- ⚡ Fun fact: **I feel happiest when a long DSA problem finally passes all test cases**
 - 📄 Resume: [https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing](https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing)
 ---
 
