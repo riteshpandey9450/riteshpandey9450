@@ -37,16 +37,17 @@
 
 ---
 
-- 🛠️ I’m currently working on **[SoulCare](https://github.com/riteshpandey9450/SoulCare)** — an AI-powered student wellness platform built with the **MERN stack** & **Gemini API**.
-- 🌱 I’m currently learning **Advanced DSA, System Design, and Full-Stack Web Development (MERN Stack)**.
-- 🤝 I’m looking to collaborate on **open-source projects, MERN stack apps, and AI-integrated web solutions**.
+- 🛠️ I’m currently working on **[SoulCare](https://github.com/riteshpandey9450/SoulCare)** — an AI-powered student wellness platform built with the **MERN stack** & **Gemini API and RAG**.
+- 🌱 I’m currently doing **Competitive Programming**
+- 🌱 I’m currently learning **DSA, and Full-Stack Web Development (MERN Stack)**.
+- 🤝 I’m looking to collaborate on **open-source projects, MERN stack apps**.
 - 💬 Ask me about **Data Structures & Algorithms, C++, and Full-Stack Development**.
 - 📫 How to reach me: **riteshpandey02112005@gmail.com**
 - ⚡ Fun fact: **I debug better at midnight than during lectures 🌙💻**
-
+- 📄 Resume: [https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing](https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing)
 ---
 
-<h3 align="left">🎯 Competitive Programming Profiles:</h3>
+<h3 align="left">🎯 Coding Profiles:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/Pandey_Ritesh/" target="blank">
     <img src="https://img.shields.io/badge/-LeetCode-gray?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
