@@ -44,7 +44,7 @@
 - 💬 Ask me about **Data Structures & Algorithms, C++, and Full-Stack Development**.
 - 📫 How to reach me: **riteshpandey02112005@gmail.com**
 - ⚡ Fun fact: **I feel happiest when a long DSA problem finally passes all test cases**
-- 📄 Resume: [https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing](https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/10G_fS6HnI_OxZ0qPB1h-FRDhcsXxEdjm/view?usp=sharing)
 ---
 
 <h3 align="left">🎯 Coding Profiles:</h3>
