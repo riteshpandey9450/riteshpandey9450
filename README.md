@@ -36,10 +36,9 @@
 </p>
 
 ---
-
-- 🛠️ I’m currently working on **[SoulCare](https://github.com/riteshpandey9450/SoulCare)** — an AI-powered student wellness platform built with the **MERN stack** & **Gemini API and RAG**.
 - 🌱 I’m currently doing **Competitive Programming**
-- 🌱 I’m currently learning **DSA, and Full-Stack Web Development (MERN Stack)**.
+- 🌱 I’m currently learning **DSA, and Full-Stack Web Development**.
+  
 - 🤝 I’m looking to collaborate on **open-source projects, MERN stack apps**.
 - 💬 Ask me about **Data Structures & Algorithms, C++, and Full-Stack Development**.
 - 📫 How to reach me: **riteshpandey02112005@gmail.com**
