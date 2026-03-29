@@ -2,7 +2,7 @@
 <h3 align="center">🚀 ICPC Regionalist | 💻 Full-Stack Engineer | 🧠 Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1925+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast;Always+Building+🚀&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1925+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast&center=true&width=650&height=45">
 </p>
 
 ---
@@ -21,7 +21,7 @@ I build **scalable systems, real-world products and optimized solutions**.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,sql,tailwind,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,tailwind,firebase,git,github" />
 </p>
 
 ---
