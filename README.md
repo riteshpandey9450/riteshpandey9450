@@ -1,83 +1,148 @@
-<div style="background-color:black">
-  
 <h1 align="center">Hi 👋, I'm Ritesh Pandey</h1>
-<h3 align="center">A passionate Competitive Programmer & $oftware Engineer</h3>
-
-![code](https://github.com/user-attachments/assets/968cdc57-52fb-476f-8f79-2182755d5ad7)
+<h3 align="center">🚀 ICPC Regionalist | 💻 Full-Stack Engineer | 🧠 Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://linktr.ee/riteshpandey9450" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-5669a3" alt="riteshpandey9450" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1925+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast;Always+Building+🚀&center=true&width=650&height=45">
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+🎓 CSE @ MMMUT (CGPA: 8.5)  
+🏆 ICPC Regionalist | Meta Hacker Cup Round 2  
+💻 Full-Stack Developer (MERN + Cloud + AI)  
+🔥 Solved 1000+ DSA Problems across platforms  
+
+I build **scalable systems, real-world products and optimized solutions**.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,sql,tailwind,firebase,git,github" />
+</p>
+
+---
+
+## 🏆 Achievements (What Makes Me Stand Out)
+
+- 🥇 **ICPC 2025 Regionalist** (Rank 81 - Chennai)
+- 💙 **Codeforces Specialist** (1419+ Rating)
+- 🟡 **LeetCode Knight** (1925+ Rating)
+- ⭐ **CodeChef 3-Star** (1700+ Rating)
+- 🌍 **Meta Hacker Cup 2025 Round 2** (Rank 1611)
+
+---
+
+## 💼 Featured Projects (Production-Level)
+
+### 🧠 SoulCare (AI + MERN + WebSockets)
+- Built scalable mental health platform (500+ users)
+- Integrated **RAG-based AI assistant**
+- Real-time chat using **WebSockets**
+- Emergency alert system using **sentiment detection**
+
+---
+
+### 📊 QuizCraft (Full-Stack Platform)
+- Dynamic quiz engine (MCQ + Cloze tests)
+- REST APIs + optimized MongoDB design
+- Zustand-powered analytics dashboard
+
+---
+
+### 🍽️ Society HomeChef
+- Full-stack hyperlocal food delivery (Chef + Customer + Rider)
+- JWT Auth + secure OTP verification (expiry + retry limit)
+- Real-time order tracking (Socket.io)
+- Nearest rider assignment (Haversine)
+- Race-condition safe order handling + AI nutrition (Gemini)
+
+---
+
+### 🍱 Foodie (Logistics + Optimization)
+- Managed **200+ perishable items**
+- Reduced wastage via routing algorithms
+- Firebase-based real-time notifications
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshpandey9450&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpandey9450&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpandey9450&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshpandey9450&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Pandey_Ritesh/">
+    <img src="https://img.shields.io/badge/LeetCode-1925+-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshpandey9450&label=Profile%20views&color=0e75b6&style=flat" alt="riteshpandey9450" />
-</p>
-
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121216575/433161252-98c659ef-5471-4080-b3d2-23e84a30cee8.gif" alt="riteshpandey9450" width="100%" height="100%"/>
-</p>
-
-<div align="center" style="display:flex">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpandey9450&" alt="riteshpandey9450" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshpandey9450&show_icons=true&locale=en&layout=compact" alt="riteshpandey9450" /></p>
-  <br>
-</div>
-
-<div align="center">
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riteshpandey9450&show_icons=true&locale=en" alt="riteshpandey9450" /></p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riteshpandey9450" alt="riteshpandey9450" />
+  <a href="https://codeforces.com/profile/riteshpandey">
+    <img src="https://img.shields.io/badge/Codeforces-1419+-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/r1teshpandey">
+    <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef"/>
   </a>
 </p>
 
 ---
-- 🌱 I’m currently doing **Competitive Programming**
-- 🌱 I’m currently learning **DSA, and Full-Stack Web Development**.
-  
-- 🤝 I’m looking to collaborate on **open-source projects, MERN stack apps**.
-- 💬 Ask me about **Data Structures & Algorithms, C++, and Full-Stack Development**.
-- 📫 How to reach me: **riteshpandey02112005@gmail.com**
-- ⚡ Fun fact: **I feel happiest when a long DSA problem finally passes all test cases**
-- 📄 Resume: [https://drive.google.com/file/d/10G_fS6HnI_OxZ0qPB1h-FRDhcsXxEdjm/view?usp=sharing)
+
+## 🤝 Leadership & Impact
+
+- 👨‍🏫 Mentored **200+ students in DSA**
+- 📚 Managed academic resources for **2000+ students**
+- ⚡ Improved system efficiency via cloud optimization
+
 ---
 
-<h3 align="left">🎯 Coding Profiles:</h3>
-<p align="left">
-  <a href="https://leetcode.com/u/Pandey_Ritesh/" target="blank">
-    <img src="https://img.shields.io/badge/-LeetCode-gray?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:riteshpandey02112005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.codechef.com/users/r1teshpandey" target="blank">
-    <img src="https://img.shields.io/badge/-CodeChef-gray?logo=codechef&style=for-the-badge" alt="CodeChef"/>
+  <a href="https://www.linkedin.com/in/ritesh-pandey-4a2b53288/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://codeforces.com/profile/riteshpandey" target="blank">
-    <img src="https://img.shields.io/badge/-Codeforces-gray?logo=codeforces&style=for-the-badge" alt="Codeforces"/>
+  <a href="https://github.com/riteshpandey9450">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ritesh-pandey-4a2b53288/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/riteshpandey9450" target="blank">
-    <img src="https://img.shields.io/badge/-GitHub-gray?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
-  <a href="https://linktr.ee/riteshpandey9450" target="blank">
-    <img src="https://img.shields.io/badge/-Linktree-gray?logo=linktree&style=for-the-badge" alt="Linktree"/>
-  </a>
-  <a href="mailto:riteshpandey02112005@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/-Email-gray?logo=gmail&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+---
 
-<h3 align="left" style="font-size: 1.5rem; margin-bottom: 1rem; color: #333;">🧰 Languages and Tools:</h3>
+## 💬 Personal Philosophy
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<h3 align="left">☕ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/riteshpandey9450"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="riteshpandey9450" /></a></p><br><br>
-</div>
+> “I don’t just solve problems - I engineer scalable solutions.”
+
+---
+
+## 🧠 Currently Focused On
+
+- System Design  
+- Backend Scalability  
+- AI Integration in Real Systems
+- Competitive Programming
+
+---
+
+⭐️ If you like my work, consider giving a star!
