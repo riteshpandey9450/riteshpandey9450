@@ -46,19 +46,19 @@ I build **scalable systems, real-world products and optimized solutions**.
 
 ---
 
-### 📊 QuizCraft (Full-Stack Platform)
-- Dynamic quiz engine (MCQ + Cloze tests)
-- REST APIs + optimized MongoDB design
-- Zustand-powered analytics dashboard
-
----
-
 ### 🍽️ Society HomeChef
 - Full-stack hyperlocal food delivery (Chef + Customer + Rider)
 - JWT Auth + secure OTP verification (expiry + retry limit)
 - Real-time order tracking (Socket.io)
 - Nearest rider assignment (Haversine)
 - Race-condition safe order handling + AI nutrition (Gemini)
+
+---
+
+### 📊 QuizCraft (Full-Stack Platform)
+- Dynamic quiz engine (MCQ + Cloze tests)
+- REST APIs + optimized MongoDB design
+- Zustand-powered analytics dashboard
 
 ---
 
