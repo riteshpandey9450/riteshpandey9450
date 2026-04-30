@@ -30,7 +30,7 @@ I build **scalable systems, real-world products and optimized solutions**.
 
 - 🥇 **ICPC 2025 Regionalist** (Rank 81 - Chennai)
 - 💙 **Codeforces Specialist** (1419+ Rating)
-- 🟡 **LeetCode Knight** (1925+ Rating)
+- 🟡 **LeetCode Knight** (1954+ Rating)
 - ⭐ **CodeChef 3-Star** (1700+ Rating)
 - 🌍 **Meta Hacker Cup 2025 Round 2** (Rank 1611)
 
