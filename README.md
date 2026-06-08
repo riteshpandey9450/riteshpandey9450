@@ -2,21 +2,45 @@
 <h3 align="center">🚀 ICPC Regionalist | 💻 Full-Stack Engineer | 🧠 Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1925+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1979+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <a href="https://ritesh-portfolio-dusky.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Who Am I?
 
-🎓 CSE @ MMMUT (CGPA: 8.5)  
-🏆 ICPC Regionalist | Meta Hacker Cup Round 2  
+🎓 CSE @ MMMUT (CGPA: 8.50)  
+🏆 ICPC 2025 Regionalist
 💻 Full-Stack Developer (MERN + Cloud + AI)  
-🔥 Solved 1000+ DSA Problems across platforms  
+🔥 Solved 1500+ DSA Problems across platforms  
 
 I build **scalable systems, real-world products and optimized solutions**.
 
 ---
+
+
+## 🌐 Portfolio
+
+🚀 Explore my complete portfolio showcasing:
+
+- Full-Stack Projects
+- Competitive Programming Achievements
+- Technical Skills
+- Certifications
+- Experience & Leadership
+- Contact & Resume
+
+🔗 **Live Portfolio:**  
+https://ritesh-portfolio-dusky.vercel.app
+
+⚡ Built using React, Vite, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, Framer Motion, Vercel & Render.
+
 
 ## 🚀 Tech Stack
 
@@ -30,13 +54,24 @@ I build **scalable systems, real-world products and optimized solutions**.
 
 - 🥇 **ICPC 2025 Regionalist** (Rank 81 - Chennai)
 - 💙 **Codeforces Specialist** (1419+ Rating)
-- 🟡 **LeetCode Knight** (1954+ Rating)
+- 🟡 **LeetCode Knight** (1979+ Rating)
 - ⭐ **CodeChef 3-Star** (1700+ Rating)
 - 🌍 **Meta Hacker Cup 2025 Round 2** (Rank 1611)
 
 ---
 
 ## 💼 Featured Projects (Production-Level)
+
+### 🌐 Personal Portfolio Website
+
+🔗 Live Demo: https://ritesh-portfolio-dusky.vercel.app
+
+- Modern responsive UI/UX
+- Dynamic SEO optimization
+- Visitor analytics tracking system
+- GitHub API integration
+- Competitive programming profile showcase
+- Deployed using Vercel + Render + MongoDB Atlas
 
 ### 🧠 SoulCare (AI + MERN + WebSockets)
 - Built scalable mental health platform (500+ users)
@@ -93,14 +128,20 @@ I build **scalable systems, real-world products and optimized solutions**.
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Pandey_Ritesh/">
-    <img src="https://img.shields.io/badge/LeetCode-1925+-orange?style=for-the-badge&logo=leetcode"/>
+  <a href="https://ritesh-portfolio-dusky.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
   </a>
+
+  <a href="https://leetcode.com/u/Pandey_Ritesh/">
+    <img src="https://img.shields.io/badge/LeetCode-1979+-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
   <a href="https://codeforces.com/profile/riteshpandey">
     <img src="https://img.shields.io/badge/Codeforces-1419+-blue?style=for-the-badge&logo=codeforces"/>
   </a>
+
   <a href="https://www.codechef.com/users/r1teshpandey">
-    <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef"/>
+    <img src="https://img.shields.io/badge/CodeChef-1700+-brown?style=for-the-badge"/>
   </a>
 </p>
 
@@ -120,11 +161,17 @@ I build **scalable systems, real-world products and optimized solutions**.
   <a href="mailto:riteshpandey02112005@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ritesh-pandey-4a2b53288/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="https://github.com/riteshpandey9450">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://ritesh-portfolio-dusky.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
