@@ -2,7 +2,7 @@
 <h3 align="center">🚀 ICPC Regionalist | 💻 Full-Stack Engineer | 🧠 Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419+);LeetCode+Knight+(1979+);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Codeforces+Specialist+(1419);LeetCode+Knight+(1979);Codechef+3-star+(1700);Full+Stack+Developer;AI+%2B+System+Design+Enthusiast&center=true&width=650&height=45">
 </p>
 
 <p align="center">
@@ -52,11 +52,12 @@ https://ritesh-portfolio-dusky.vercel.app
 
 ## 🏆 Achievements (What Makes Me Stand Out)
 
-- 🥇 **ICPC 2025 Regionalist** (Rank 81 - Chennai)
+- 🥇 **ICPC 2025 Regionalist**
 - 💙 **Codeforces Specialist** (1419+ Rating)
 - 🟡 **LeetCode Knight** (1979+ Rating)
 - ⭐ **CodeChef 3-Star** (1700+ Rating)
 - 🌍 **Meta Hacker Cup 2025 Round 2** (Rank 1611)
+- 🌍 **TCS Codevita Season 13** (Rank 1670)
 
 ---
 
