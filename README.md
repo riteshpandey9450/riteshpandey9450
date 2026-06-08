@@ -116,15 +116,6 @@ https://ritesh-portfolio-dusky.vercel.app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpandey9450&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshpandey9450&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🌐 Coding Profiles
 
