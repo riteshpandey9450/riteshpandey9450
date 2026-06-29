@@ -54,7 +54,7 @@ https://ritesh-portfolio-dusky.vercel.app
 
 - 🥇 **ICPC 2025 Regionalist**
 - 💙 **Codeforces Specialist** (1419+ Rating)
-- 🟡 **LeetCode Knight** (1979+ Rating)
+- 🟡 **LeetCode Knight** (2000+ Rating)
 - ⭐ **CodeChef 3-Star** (1700+ Rating)
 - 🌍 **Meta Hacker Cup 2025 Round 2** (Rank 1611)
 - 🌍 **TCS Codevita Season 13** (Rank 1670)
